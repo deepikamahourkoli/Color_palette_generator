@@ -1,0 +1,16 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+h1 {
+  color: #ffa511;
+  text-decoration: underline double;
+  text-decoration-color: teal;
+  font-size: 55px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-family: League spartan;
+  line-height: 1.5;
+  text-align: center;
+  text-transform: uppercase;
+}

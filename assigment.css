@@ -1,0 +1,20 @@
+* {
+  margin: 0%;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: inline;
+}
+div {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(28, 168, 28);
+  transition: margin-left 2s ease-in 0.2s;
+}
+div:hover {
+  margin-left: 500px;
+  background-color: rgb(83, 9, 254);
+  grid-row: initial;
+}
