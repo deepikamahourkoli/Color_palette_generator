@@ -33,18 +33,6 @@ h1 {
   padding-bottom: 0.5rem;
 }
 
-h1::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 50%;
-  height: 3px;
-  background-color: #667eea;
-  border-radius: 2px;
-}
-
 #generate-btn {
   background: linear-gradient(45deg, #667eea, #764ba2);
   color: white;
